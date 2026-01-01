@@ -1,1 +1,1 @@
-C:\development\rust-chana8spu\target\debug\battleship.exe: C:\development\rust-chana8spu\src\main.rs
+C:\development\battleship\target\debug\battleship.exe: C:\development\battleship\src\main.rs
